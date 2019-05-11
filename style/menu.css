@@ -1,0 +1,84 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
+	margin: 0; padding: 0; border: 0;
+}
+
+body {
+	 
+	font-family: Helvetica, sans-serif;  
+}
+
+nav {
+ 
+	text-align: center;
+}
+
+nav ul ul {
+	display: none;
+}
+
+	nav ul li:hover > ul {
+		display: block;
+	}
+
+
+nav ul {
+	
+	 
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+	nav ul:after {
+		content: ""; clear: both; display: block;
+	}
+
+	nav ul li {
+		float: left;
+	}
+		nav ul li:hover {
+			
+			background: #483B32; 
+			border-radius:5px;
+		}
+			nav ul li:hover a {
+				color: #fff;
+				
+			}
+		
+		nav ul li a {
+			display: block; padding: 20px;
+			color: #757575; text-decoration: none;
+			 font-weight:400;
+		}
+			
+		
+	nav ul ul {
+		background: #BEA376; border-radius: 0px; padding: 0;
+		position: absolute; top: 80%;
+		
+	}
+		nav ul ul li {
+			float: none; 
+			border-top: 1px solid #6b727c;
+			border-bottom: 1px solid #575f6a; position: relative;
+			 font-weight:400;
+		}
+			nav ul ul li a {
+				 
+				color: #fff;
+				 padding: 5px 20px;
+				 
+				 font-weight:400;
+				 font-size:16px;
+			}	
+				nav ul ul li a:hover {
+				  background: none repeat scroll 0 0 #392f26;
+				  
+				}
+		
+	nav ul ul ul {
+  left: 78px;
+  position: absolute;
+  top: -14px;
+}
+		
