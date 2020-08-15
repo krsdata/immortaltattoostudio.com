@@ -39,7 +39,12 @@ for ($i=1; $i<=$total_pages; $i++) {
         $delimeter = $i;
     }
     
-             $pagLink .= "<a href='gallery.php?page=".$i."'> ".$delimeter." </a>";  
+             $pagLink .= "<a href='gallery.php?page=".$i."' style='
+    background: #ccc;
+    padding: 3px;
+    border-radius: 5px;
+    margin-right: 5px;
+'> ".$delimeter." </a>";  
 };  
 echo $pagLink . "</div>";  
 ?>

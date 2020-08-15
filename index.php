@@ -135,7 +135,7 @@
 		</div>
 		<div class="abt-tattoo">
 			<p align="justify" style="font-size:x-large">
-				 I am Dina-Karan from Bangalore, I have <b>11 years </b> experience in tattoo field I love to do larger black & gray pieces as well as crazy color blending. I give 110% on every tattoo no matter how big or small it may be. my customers satisfaction is my main focus and I want to help you design your tattoo and take your idea to the next level. Behind and your imagination, the job is watching your excitement the first time you look at your new tattoo in the mirror.
+				 I am Dina-Karan from Bangalore, I have <b style="color:red">12 years </b>of experience in tattoo field I love to do larger black & gray pieces as well as crazy color blending. I give 110% on every tattoo no matter how big or small it may be. my customers satisfaction is my main focus and I want to help you design your tattoo and take your idea to the next level. Behind and your imagination, the job is watching your excitement the first time you look at your new tattoo in the mirror.
 			</p>
 		</div>
 		

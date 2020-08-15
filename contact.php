@@ -38,8 +38,22 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	<div class="panel-3" style="height:auto">
 		<div class="faq-main">
 			<h2 class="page-title">Reach Us</h2>
+			<div class="panel-3" style="height:auto;padding-left: 0;float: left;width: 100%;margin: 0px 0%; "> 
+	<p style=""><ul style="
+    height: 35px;
+    line-height: 34px;
+    font-size: 30px;
+">Immortal Creative Tattoo Studio & Academy</ul>  </p>
+<p style="line-height:25px;background: #fff;color: #000;padding: 20px;font-family: fantasy;margin-bottom: 15px;margin-top: 15px;">
+<b>Address : </b> <br>
+Prosperity building, LG1 diamond colony opposite bansi trade centre, <br>
+Mg road, landmark janjeerwala square, Indore (MP) <br>
+Call us, 07314222237, 9179997492</p>
+	
+	</div>
 			 <div class="c1">
 			   	 <div class="c2">
+			   	     
 			     <!-- <div id="googleMap" style="width:100%;height:380px;"></div> -->
 			     <p> 3D View of Immortal tattoo Studio</p>
 			      <iframe src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2s!4v1493443566580!6m8!1m7!1s-oiqd2gJq5AAAAQ8sTWGog!2m2!1d22.72367200923838!2d75.88243623921687!3f142.29035794082898!4f27.577502729308577!5f0.6005546584629357" width="100%" height="480px" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -54,14 +68,6 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		 	
         </div>
 	</div> 
-	<div class="panel-3" style="height:auto; margin-left:12%; "> 
-	<p sty="font-size:20px">Immortal Creative Tattoo Studio & Academy  </p>
-<p style="line-height:25px">
-<b>Address : </b> <br>
-Prosperity building, LG1 diamond colony opposite bansi trade centre, <br>
-Mg road, landmark janjeerwala square, Indore (MP) <br>
-Call us, 07314222237, 9179997492</p>
 	
-	</div>
 
 <?php include_once('footer.php'); ?>

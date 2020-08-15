@@ -86,6 +86,7 @@ $(function() {
 });
 </script>
 <!--  date picker script -->
+<script src="https://malsup.github.io/jquery.form.js?_=1565509112863" type="text/javascript"></script>
 <link rel="stylesheet" href="css/datePicker.css" type="text/css" />
 <script src="js/jquery/date.js" type="text/javascript"></script>
 <script src="js/jquery/jquery.datePicker.js" type="text/javascript"></script>

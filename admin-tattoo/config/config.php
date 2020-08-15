@@ -10,7 +10,7 @@ session_start();
 	define('PASSWORD','@123!user@');
 	define('DATABASE_NAME','immortal_db'); 
 	
-	define('ABS_ROOT_PATH','/home/immortaltattoo/public_html/admin-tattoo/');
+	define('ABS_ROOT_PATH','/home/immortal/public_html/admin-tattoo/');
 	define('SITE_NAME','Immortal tatto studio');
 	define('SITE_URL','http://immortaltattoostudio.com/admin-tattoo/');
 	define('REQUEST_URL',$_SERVER['PHP_SELF'].'?repp='.$_GET['repp'].'&page='.$_GET['page'].'&search='.$_GET['search']);
